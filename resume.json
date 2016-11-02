@@ -36,9 +36,8 @@
     {
       "company": "SoundHound",
       "position": "Software Engineer",
-      "website": "https://piedpiper.com",
-      "startDate": "June 2013",
-      "endDate": "",
+      "website": "http://soundhound.com",
+      "startDate": "2013-06-01",
       "summary": "Music and speech recognition and understanding platform",
       "highlights": [
         "Designed and implemented systems that manage a unique blend of searchable data, including audio, metadata, and traditional text-based content. Implemented in C++, PHP, and Bash.",
@@ -49,8 +48,8 @@
       "company": "CBS Interactive / Download.com",
       "position": "Software Engineer Intern",
       "website": "",
-      "startDate": "May 2012",
-      "endDate": "August 2012",
+      "startDate": "2012-05-01",
+      "endDate": "2012-08-01",
       "summary": "",
       "highlights": [
         "Redesigned Download.com's incoming software updating process, improving performance by introducing multithreading and adding greater crash tolerance.",
@@ -61,8 +60,8 @@
       "company": "Pacific Northwest National Laboratory",
       "position": "Computer Science Internship",
       "website": "",
-      "startDate": "May 2011",
-      "endDate": "July 2011",
+      "startDate": "2011-05-01",
+      "endDate": "2011-07-01",
       "summary": "",
       "highlights": []
     },
@@ -70,8 +69,8 @@
       "company": "Laser Interferometer Gravitational Observatory",
       "position": "Computer Science Internship",
       "website": "",
-      "startDate": "May 2010",
-      "endDate": "August 2010",
+      "startDate": "2010-05-01",
+      "endDate": "2010-08-01",
       "summary": "",
       "highlights": []
     }
@@ -82,8 +81,8 @@
       "institution": "University of Portland",
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
-      "startDate": "2009",
-      "endDate": "2013",
+      "startDate": "2009-08-01",
+      "endDate": "2013-05-01",
       "gpa": "",
       "courses": []
     }
@@ -91,7 +90,7 @@
   "awards": [
     {
       "title": "SF Music Hackathon Winner",
-      "date": "May 2014",
+      "date": "2014-05-01",
       "awarder": "SF Music Hack Day",
       "summary": "Best use of Musicgraph's and Musicxmatch's API. 24hr project that uses your tweets to identify the artist whose lyrics match your speech style."
     }
