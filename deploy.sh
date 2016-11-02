@@ -23,7 +23,7 @@ cp ../index.html .
 
 # Deploy
 git config --global user.name "Ben Gadbois"
-git config --global user.email "$COMMIT_AUTHOR_EMAIL"
+git config --global user.email "enharmonicdistortion@gmail.com"
 git init
 git add index.html
 git commit -m "Publish resume via Travis CI build $TRAVIS_COMMIT"
