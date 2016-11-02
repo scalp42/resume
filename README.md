@@ -1,6 +1,6 @@
 # [Ben Gadbois Resume](https://bengadbois.github.io/resume/)
 
-[![Build Status](https://travis-ci.org/bengadbois/resume.svg?branch=master)](https://travis-ci.org/bengadbois/resume)
+[![Travis](https://img.shields.io/travis/bengadbois/resume.svg?style=flat-square)](https://travis-ci.org/bengadbois/resume)
 
 Built using the [JSONResume](https://jsonresume.org/) format.
 
