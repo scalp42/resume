@@ -1,0 +1,16 @@
+sudo: required
+branches:
+  only:
+  - master
+before_script:
+- sudo apt-get purge nodejs npm
+- curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
+- sudo apt-get install -y nodejs
+- sudo npm install -g resume-cli
+script:
+- bash ./deploy.sh
+env:
+  global:
+  - GH_REF: github.com/bengadbois/resume.git
+a0ce826f9eeac3bc4918a4c227fe965b94e0f10f:
+  secure: aOPIac1Mj0qyGF4UuEX3dU+W4VTYK1EmkGC1OW3dOxi9fmFxB8Mn1Yt4ZK1wgN2eTk0WyWt0IrpxUMzIMC/hpBtxlgZUM58VgIJ+J/ujq6ny9gq3I2hQ0b7U8D0qCrkXGM9V6pV5kwHnrNGGoqzF7nx/DWtxyIsok34V+4CLhIRJkSQlptw1Ehl4T5RtxFlvj2HVn8agMcFaTMlUDM9CVBbN7ZvhNkoVTHjQQq5q/mNfPv8VQHQOO/KMI4Fy786zdI4JU8hQ5VfFvaAKDJH7CN/f5pb2z47MQLX3xIpDwBlIPuXHtncmWDNXDo3+6HwUjcQmj544xzaoZ8gKrNCnzdFZCBswF1f6L+DvNP7khNTTPPXOYJ4QjAfhvj98XJkbOeb+o6r1yP6YUf5OdNknqOJdaK1BjTj3QsFLWqQIhWmxRJDJLA44DwsbkM4xrt61OrI8qGeqZWY2eGmkIPbohhcr12khwSgXsDBikGXqXWlB/bnCw2DeR1YrFoaghKOe2B+63W2Hdthz3cfa7AgaRX4YCnIvGeHJB9xhJfysY6TSVJX+k2/5fRkKk2ohx6uQgfWdrXWK4HcwVX/uS/VNcFZ7tf+z5GGfH97bHTUez7qy/q+dn3D7FXLP+8QE7LeZYqz70kfGohL3BZQImwDGOPYgsODPjJ9XOuNvrhvgkiA=
