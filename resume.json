@@ -40,13 +40,13 @@
       "startDate": "2013-06-01",
       "summary": "Music and speech recognition and understanding platform",
       "highlights": [
-        "Designed and implemented systems that manage a unique blend of searchable data, including audio, metadata, and traditional text-based content. Implemented in C++, PHP, and Bash.",
-        "Developed and maintained a realtime audio streaming authentication and routing proxy built for the HTTP and Websockets Speech API. Implemented in Go, MySQL for data store, Memcache for caching."
+        "Designed and implemented systems that clean and manage a unique blend of searchable data, including audio, metadata, and traditional text-based content. Implemented in C++, PHP, and Bash.",
+        "Developed and maintained a realtime audio streaming authentication and routing proxy. Built for the HTTP and Websockets speech API. Server implemented in Go, backed by MySQL and Memcache."
       ]
     },
     {
       "company": "CBS Interactive / Download.com",
-      "position": "Software Engineer Intern",
+      "position": "Software Engineer Internship",
       "website": "",
       "startDate": "2012-05-01",
       "endDate": "2012-08-01",
