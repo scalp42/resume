@@ -53,7 +53,7 @@
       "summary": "",
       "highlights": [
         "Redesigned Download.com's incoming software updating process, improving performance by introducing multithreading and adding greater crash tolerance.",
-        "Implemented new features in Java, used Spring for configuration, Hibernate with databases, and Apache ActiveMQ.to handle workers."
+        "Implemented new features in Java, used Spring for configuration, Hibernate with databases, and Apache ActiveMQ to handle workers."
       ]
     },
     {
