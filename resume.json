@@ -42,7 +42,7 @@
       "highlights": [
         "Designed and implemented systems that clean and manage a unique blend of searchable data, including audio, metadata, and traditional text-based content. Implemented core backend parts in C++, web interfaces in PHP + JS, and automation with Bash and Jenkins.",
         "Developed and maintained a realtime audio streaming authentication and routing proxy. Built for the HTTP and Websockets speech API. Server implemented in Go, backed by MySQL and Memcache.",
-        "Migrated multiple large projects from SVN to Git, setup continuous integration, created fast and safe workflow, and helped other team members ramp up."
+        "Migrated multiple large projects from SVN to Git, set up continuous integration, created fast and safe workflow, and helped other team members ramp up."
       ]
     },
     {
