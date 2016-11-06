@@ -40,7 +40,7 @@
       "startDate": "2013-06-01",
       "summary": "Music and speech recognition and understanding platform",
       "highlights": [
-        "Designed and implemented systems that clean and manage a unique blend of searchable data, including audio, metadata, and traditional text-based content. Implemented in C++, PHP, and Bash.",
+        "Designed and implemented systems that clean and manage a unique blend of searchable data, including audio, metadata, and traditional text-based content. Implemented core backend parts in C++, web interfaces in PHP + JS, and automation with Bash and Jenkins.",
         "Developed and maintained a realtime audio streaming authentication and routing proxy. Built for the HTTP and Websockets speech API. Server implemented in Go, backed by MySQL and Memcache."
       ]
     },
