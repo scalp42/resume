@@ -6,7 +6,7 @@ before_script:
 - sudo apt-get purge nodejs npm
 - curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
 - sudo apt-get install -y nodejs
-- sudo npm install -g resume-cli
+- sudo npm install -g resume-cli@0.4.14
 script:
 - bash ./deploy.sh
 env:
