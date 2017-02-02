@@ -6,7 +6,7 @@
     "email": "enharmonicdistortion@gmail.com",
     "phone": "(509) 416-6434",
     "website": "",
-    "summary": "Full stack developer, with server side focus. I like to move fast and build things.",
+    "summary": "Software engineer, with a server side focus. I like to move fast and build things.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -41,7 +41,7 @@
       "summary": "Music and speech recognition and understanding platform",
       "highlights": [
         "Designed and implemented systems that clean and manage a unique blend of searchable data, including audio, metadata, and traditional text-based content. Implemented core backend parts in C++, web interfaces in PHP + JS, and automation with Bash and Jenkins.",
-        "Developed and maintained a realtime audio streaming authentication and routing proxy. Built for the HTTP and Websockets speech API. Server implemented in Go, backed by MySQL and Memcache.",
+        "Developed and maintained a realtime audio streaming authentication and routing proxy. Built for the HTTP and Websockets speech API. Server implemented in Go, backed by MySQL and Redis.",
         "Migrated multiple large projects from SVN to Git, set up continuous integration, created fast and safe workflow, and helped other team members ramp up."
       ]
     },
